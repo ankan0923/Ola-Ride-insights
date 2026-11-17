@@ -215,6 +215,7 @@ performance.
 > this section when preparing the public GitHub repository.
 
 ## 9. Streamlit Application
+**[Explore the live dashboard](https://mainpy-scwdc2hvijqn4vdd3vbi5z.streamlit.app/)**
 
 The Streamlit application is named **OLA Ride Insights** and uses a dark
 analytical interface with interactive Plotly charts.
